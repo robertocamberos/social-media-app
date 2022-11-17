@@ -17,4 +17,5 @@
 
 # Run
 
-`npm start`
+Enter this on the terminal: `npm start`
+Enter this on the web browser: `localhost:2121`
